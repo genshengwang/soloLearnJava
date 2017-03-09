@@ -1,2 +1,2 @@
 # soloLearnJava
-start learn Java   
+Start to learn Java !
