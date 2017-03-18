@@ -46,6 +46,10 @@ class Student {
 	public void printScore() {
 		System.out.println(name + "的分数为：" + this.score + "\n");
 	}
+	public void read() {
+		// dosomething
+		
+	}
 }
 
 
